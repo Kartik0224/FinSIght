@@ -1,4 +1,4 @@
-# FinSIght
+# FinSight
 # 💼 Multi-Company Financial Insights Dashboard (Power BI)
 
 ## 📌 Project Description
