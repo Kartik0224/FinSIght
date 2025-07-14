@@ -95,7 +95,7 @@ All datasets include fields such as company ticker (`stock`), `endDate`, and key
 
 ## 📎 How to Explore the Dashboard
 
-> ⚠️ Due to file size, the `.pbix` file is not directly hosted here. Contact via email or use cloud hosting link for access.
+> ⚠️ Due to file size, the `.pbix` file is not directly hosted here. Contact via hosting drive link for access.
 
 ### 🔧 Step-by-Step:
 1. Open the `.pbix` file in **Power BI Desktop**.
@@ -120,5 +120,4 @@ Feel free to fork this project, create issues, or contribute with pull requests.
 
 ---
 
-**📧 Contact:** [Your Email]  
-**🌐 Portfolio:** [Your Website or LinkedIn]  
+**📧 Contact:** karikpatil6969@gmail.com  
